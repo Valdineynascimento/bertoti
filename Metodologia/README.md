@@ -6,15 +6,15 @@
 - Aluno: Valdiney José do Nascimento :man_student:
 - RA: 1460282023011
 
-- Disciplina: Metodologia de projetos
-- Professor: Giuliano Bertoti
+- Disciplina: Metodologia da Pesquisa Cientifico Tecnologica
+- Professor: Giuliano Araujo Bertoti
 - Banco de Dados - 4º Semestre
 
 </h4>
   
   --- 
   
-  <h1 align="center"> :books: API 1º Semestre Banco de Dados :books: </h1>
+  <h1 align="center"> :books: API - 1º Semestre - Banco de Dados :books: </h1>
   
   <p align="center">
  <a href="#-resumo-do-projeto-clipboard"> Resumo do Projeto</a> •
@@ -71,7 +71,7 @@
 <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
 
 
-<p align="justify" style="font-family:roboto;">Prototipação de tela da aplicação utilizando a plataforma do Figma.
+<p align="justify" style="font-family:roboto;"> Prototipação de tela da aplicação utilizando a plataforma do Figma.
 Criação das telas prototipadas na plataforma MIT App Inventor
 Programação em blocos da lógica da tela inserida na plataforma MIT App Inventor.
 Criação de repositório, inclusão das informações sobre o projeto no Github.
