@@ -1,7 +1,20 @@
 <html>
 <body>
   
- <h1 align="center"> :books: API 1º Semestre Banco de Dados :books: </h1>
+<h4 style="font-family:roboto;">
+  
+- Aluno: Valdiney José do Nascimento :man_student:
+- RA: 1460282023011
+
+- Disciplina: Metodologia de projetos
+- Professor: Giuliano Bertoti
+- Banco de Dados - 4º Semestre
+
+</h4>
+  
+  --- 
+  
+  <h1 align="center"> :books: API 1º Semestre Banco de Dados :books: </h1>
   
   <p align="center">
  <a href="#-resumo-do-projeto-clipboard"> Resumo do Projeto</a> •
