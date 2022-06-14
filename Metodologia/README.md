@@ -36,24 +36,24 @@
    
 
 
- <li><a href="https://appinventor.mit.edu/">MIT App Inventor</a>: 
+ <li><a href="https://appinventor.mit.edu/">MIT App Inventor</a>: </li>
+<ul>
+   <li><p align="justify" style="font-family:roboto;"> O MIT App Inventor é um ambiente de programação visual intuitivo que permite que todos criem aplicativos totalmente funcionais para telefones Android, iPhones e tablets Android/iOS. Além disso, a ferramenta baseada em blocos facilita a criação de aplicativos complexos e de alto impacto em um tempo significativamente menor do que os ambientes de programação tradicionais. O projeto MIT App Inventor busca democratizar o desenvolvimento de software, capacitando todas as pessoas, especialmente os jovens, a passar do consumo de tecnologia para a criação de tecnologia.</ul></li>
 
-<p align="justify" style="font-family:roboto;"> O MIT App Inventor é um ambiente de programação visual intuitivo que permite que todos criem aplicativos totalmente funcionais para telefones Android, iPhones e tablets Android/iOS. Além disso, a ferramenta baseada em blocos facilita a criação de aplicativos complexos e de alto impacto em um tempo significativamente menor do que os ambientes de programação tradicionais. O projeto MIT App Inventor busca democratizar o desenvolvimento de software, capacitando todas as pessoas, especialmente os jovens, a passar do consumo de tecnologia para a criação de tecnologia. 
-
-<li><a href="https://www.figma.com/">Figma</a>:
-
-   <p align="justify" style="font-family:roboto;"> É uma ferramenta para projetos UI com excelentes recursos de Design, Prototipagem, Colaboração, Plug-in de Sistema de Projeto, entre outros. Esta tecnologia foi utilizada pela nossa equipe para criação das Wireframes.
-</ul></li>
+<li><a href="https://www.figma.com/">Figma</a>:</li>
+   <ul>
+   <li><p align="justify" style="font-family:roboto;"> É uma ferramenta para projetos UI com excelentes recursos de Design, Prototipagem, Colaboração, Plug-in de Sistema de Projeto, entre outros. Esta tecnologia foi utilizada pela nossa equipe para criação das Wireframes.
+   </ul></li>
 
  <li><a href="https://www.dio.me/.">Github</a>: 
-
-<p align="justify" style="font-family:roboto;"> É uma plataforma totalmente online onde você pode criar repositórios e hospedar neles seus projetos, colaborar com softwares open source, seguir outros(as) programadores(as) e interagir com códigos de terceiros. 
+  <ul>
+   <li><p align="justify" style="font-family:roboto;"> É uma plataforma totalmente online onde você pode criar repositórios e hospedar neles seus projetos, colaborar com softwares open source, seguir outros(as) programadores(as) e interagir com códigos de terceiros. </ul></li>
 
 
  <li><a href="https://www.videoask.com">VideoAsk</a>: 
-
-<p align="justify" style="font-family:roboto;"> Ferramenta que utilizamos para fazer os vídeos de apresentação das sprints, podendo ser utilizado pelo site ou app.
-
+   <ul>
+<li><p align="justify" style="font-family:roboto;"> Ferramenta que utilizamos para fazer os vídeos de apresentação das sprints, podendo ser utilizado pelo site ou app.
+   </ul></li>
  ---
 
 <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
