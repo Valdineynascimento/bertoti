@@ -59,11 +59,42 @@
  
 <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
   <ul>
-  <li><p align="justify" style="font-family:roboto;"> Inicialmente comecei os trabalhos com a prototipação de tela através do Figma,</ul></li></p>
+  <li><p align="justify" style="font-family:roboto;"> Inicialmente comecei os trabalhos com a prototipação de tela através do Figma.</ul></li></p>
+  <ul>
+    <details>
+    <summary>Telas Prototipadas</summary>
+    <br>
+    <img style= "borde-radius: 50%;" src="https://github.com/Valdineynascimento/bertoti/blob/main/Metodologia/Imagens/Telas%20figma%20geral.jpg" width="800px; " alt=""/>
+    </details></ul>
+   <ul>
+    <details>
+    <summary>Telas com fluxo de transição</summary>
+    <br>
+    <img style= "borde-radius: 50%;" src="https://github.com/Valdineynascimento/bertoti/blob/main/Metodologia/Imagens/Telas%20figma%20geral%20e%20fluxo.jpg" width="800px; " alt=""/>
+    </details></ul>
+    
   <ul>
   <li><p align="justify" style="font-family:roboto;"> Fiquei responsável por criar o repositório e colocar as informações do projeto no Github. Como não conhecia a ferramenta, primeiramente fiz um cursinho basico de Github disponibilizado gratuitamente pela <a href="https://www.dio.me/">Digital Innovation One</a> para cumprir a tarefa.</ul></li></p>
   <ul>
+    <details>
+    <summary>Github Coffeend</summary>
+    <br>
+    <img style= "borde-radius: 50%;" src="https://github.com/Valdineynascimento/bertoti/blob/main/Metodologia/Imagens/Github%20Coffeend.JPG" width="800px; " alt=""/>
+    </details></ul>
+  <ul>
   <li><p align="justify" style="font-family:roboto;"> A Plataforma MIT App Inventor foi utilizada para criar a aplicação, a primeira parte deste desafio foi tirar o  protótipo do papel e criá-las na plataforma, cada integrante criou pelo menos uma tela, como eu não conhecia nada da plataforma procurei por vídeos  criar comecei a ter noção de programação, onde fiz a programação de duas telas do projeto.</ul></li></p>
+  <ul>
+    <details>
+    <summary>Telas no MIT</summary>
+    <br>
+    <img style= "borde-radius: 50%;" src="https://github.com/Valdineynascimento/bertoti/blob/main/Metodologia/Imagens/Telas%20no%20MIT.JPG" width="800px; " alt=""/>
+    </details></ul>
+    <ul>
+    <details>
+    <summary>Código em blocos no MIT</summary>
+    <br>
+    <img style= "borde-radius: 50%;" src="https://github.com/Valdineynascimento/bertoti/blob/main/Metodologia/Imagens/Progamação%20em%20blocos.jpg" width="800px; " alt=""/>
+    </details></ul>
   <ul>
   <li><p align="justify" style="font-family:roboto;"> Introdução a metodologia Scrum, aprendi alguns conceitos como; (daily meet) pequenas reuniões diárias, (sprints) divisão da entrega do projeto em partes e quebra das User Stories, da Sprint, em Tasks.</ul></li></p>
 
