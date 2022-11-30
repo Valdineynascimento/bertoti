@@ -62,14 +62,14 @@
   <details>
   <summary>Clique aqui para visualizar o Padrão de Projeto Proxy</summary>
   <br>
-   <img style="border-radius: 50%;" src="https://github.com/Valdineynascimento/bertoti/tree/main/Metodologia/Imagens/PadraoProxy.png" width="800px;" alt=""/>
+   <img style="border-radius: 50%;" src="https://github.com/Valdineynascimento/bertoti/tree/main/Metodologia/Imagens/PadraoProxy.png" width="800px;" alt="800px"/>
   </details>
   
   <p align="justify" style="font-family:roboto;"> A seguir, foram configuradas as Properties, para as quais foram aplicadas a conexão com a Base de Dados MySQL. Declaramos a versão da linguagem do Banco (org.hibernate.dialect.MySQL5InnoDBDialect).</p>
   <details>
   <summary>Clique aqui para visualizar as Properties</summary>
   <br>
-   <img style="border-radius: 50%;" src="https://github.com/Valdineynascimento/bertoti/tree/main/Metodologia/Imagens/PropertiesAPI3.png" width="800px;" alt=""/>
+   <img style="border-radius: 50%;" src="https://github.com/Valdineynascimento/bertoti/tree/main/Metodologia/Imagens/PropertiesAPI3.png" width="800px;" alt="800px"/>
   </details>
   
    
