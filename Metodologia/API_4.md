@@ -2,7 +2,7 @@
 <body>
   
   <h1 align="center"> API 4º Semestre - 02/2021</h1>
-<a href="https://github.com/GabrielSG20/API4Sem2021"><img src="https://img.shields.io/badge/GitHub-Repositório Projeto-181717?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/EquipeFatec/api"><img src="https://img.shields.io/badge/GitHub-Repositório Projeto-181717?style=for-the-badge&logo=github"></a>
 
   <h2> Parceiro Acadêmico: <a href="https://www.oracle.com/br/index.html">Oracle</a></h2>
   
@@ -43,7 +43,7 @@
   <details>
   <summary>Clique aqui para visualizar a Lógica Arquitetural MVC</summary>
   <br>
-   <img style="border-radius: 50%;" src="https://github.com/Valdineynascimento/bertoti/tree/main/Metodologia/Imagens/DiagramaArq.png" width="500px;" alt=""/>
+   <img style="border-radius: 50%;" src="https://github.com/Valdineynascimento/bertoti/blob/main/Metodologia/Imagens/DiagramaArq.png" width="500px;" alt=""/>
   </details>
   
   <ul>
@@ -64,7 +64,7 @@
   <details>
   <summary>Clique aqui para visualizar o Padrão de Projeto Proxy</summary>
   <br>
-   <img style="border-radius: 50%;" src="https://github.com/Valdineynascimento/bertoti/tree/main/Metodologia/Imagens/PadraoProxy.png" width="800px;" alt=""/>
+   <img style="border-radius: 50%;" src="https://github.com/Valdineynascimento/bertoti/blob/main/Metodologia/Imagens/PadraoProxy.png" width="800px;" alt=""/>
   </details>  
      
   <p align="justify" style="font-family:roboto;"> A seguir foram configuradas as Properties, para as quais foram aplicadas a conexão com a Base de Dados Oracle que está em
@@ -72,7 +72,7 @@
   <details>
   <summary>Clique aqui para visualizar as Properties</summary>
   <br>
-   <img style="border-radius: 50%;" src="https://github.com/Valdineynascimento/bertoti/tree/main/Metodologia/Imagens/Properties-VPC.png" width="800px;" alt=""/>
+   <img style="border-radius: 50%;" src="https://github.com/Valdineynascimento/bertoti/blob/main/Metodologia/Imagens/Properties-VPC.png" width="800px;" alt=""/>
   </details>   
    
    
