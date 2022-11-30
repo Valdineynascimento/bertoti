@@ -25,7 +25,7 @@
   
   <table align="center">
    <tr>
-    <td align="center"><a href="https://www.linkedin.com/in/valdiney-jos%C3%A9-do-nascimento-68a136214/"><img style="border-radius: 50%;" src="https://github.com/Valdineynascimento/bertoti/tree/main/Metodologia/Imagens/ValdineyNascimento.jpeg" width="200px;" alt=""/><br/><b>Valdiney Nascimento</b></a>
+    <td align="center"><a href="https://www.linkedin.com/in/valdiney-jos%C3%A9-do-nascimento-68a136214/"><img style="border-radius: 50%;" src="https://github.com/Valdineynascimento/bertoti/blob/main/Metodologia/Imagens/ValdineyNascimento.jpeg" width="200px;" alt="200px"/><br/><b>Valdiney Nascimento</b></a>
       <br/>
       Back-end Developer
      </td>
