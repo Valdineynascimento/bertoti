@@ -77,7 +77,7 @@
   <h2 style="font-family:roboto;"> Funcionamento :bulb:</h2>
 
    <div align="center">
-     <video src="https://www.youtube.com/watch?v=kBIUHRlL-Q8&t=3s" controls="controls" style="max-rate: 730px;">
+     <video src="https://user-images.githubusercontent.com/71536881/204689557-d6a6a30d-51c5-435d-8a49-b286f80f3abf.mp4" controls="controls" style="max-rate: 730px;">
      </video>    
    </div>
 
